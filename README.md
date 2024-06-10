@@ -1,5 +1,5 @@
 # Instruction
-You need to copy this project to your IDE (for exampple Inteleji IDEA - Create project from virsion control).
+You need to copy this project to your IDE (for example Inteleji IDEA - Create project from virsion control).
 ![зображення](https://github.com/Rikki278/testTaskBackend/assets/66260361/722fae36-22b9-4ea5-9797-bde248c842cb)
 
 
